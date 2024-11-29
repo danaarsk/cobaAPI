@@ -1,0 +1,8 @@
+__pycache__/
+.git/
+*.log
+*.pyc
+*.pyo
+*.env
+node_modules/
+large_datasets/
